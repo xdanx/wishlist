@@ -1,9 +1,9 @@
 
 ### Mandatory:
-* 2% impozit salariu catre Pavel -> [Declaratie 203](decl_203) <-
+* 2% impozit salariu catre Pavel -> [Declaratie 203](https://github.com/xdanx/wishlist/raw/master/cerere_pavel_230_2015.pdf) <-
 
 ### Optional
-* Donatie Pavel [Suggested: 50 lei]
+* Donatie Pavel. Suggested: 50 lei
 * ~~boots~~ [bought by Kasp]
 * arc de tir (ask 4 details)
 * mouse gaming (care se aiba side buttons for quick spell access)
