@@ -3,6 +3,7 @@
 * 2% impozit salariu catre Pavel -> [Declaratie 203](decl_203) <-
 
 ### Optional
+* Donatie Pavel [Suggested: 50 lei]
 * ~~boots~~ [bought by Kasp]
 * arc de tir (ask 4 details)
 * mouse gaming (care se aiba side buttons for quick spell access)
