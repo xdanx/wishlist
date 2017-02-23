@@ -1,6 +1,6 @@
 
 ### Mandatory:
-* 2% impozit salariu catre Pavel -> [Declaratie 203](https://github.com/xdanx/wishlist/230) <-
+* 2% impozit salariu catre Pavel -> [Declaratii 203](https://github.com/xdanx/wishlist/tree/master/230) <-
 
 ### Optional
 * Donatie Pavel. Suggested: 50 lei
