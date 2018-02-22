@@ -13,3 +13,4 @@
 * ~~cablu aux cu mufa jack in 2 mufe alb si rosu. Min 5m si care sa nu se rupa la capat pt ca il frec mult.~~
 * ~~vesta reflectorizanta~~
 * Buff de iarna (nu-mi place ala de vara)
+* casti pt gaming (SteelSeries / Razer / MadCatz ) cu microfon si over-ear
