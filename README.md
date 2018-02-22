@@ -3,7 +3,7 @@
 * 2% impozit salariu catre Pavel -> [Declaratii 203](https://github.com/xdanx/wishlist/tree/master/230) <-
 
 ### Optional
-* Donatie Pavel. Suggested: 50 lei
+* Donatie [Pavel](http://www.asociatiapavel.ro/). Suggested: 50 lei
 * ~~boots~~
 * ~~casca si ochelari snow~~
 * ~~arc de tir (ask 4 details)~~
